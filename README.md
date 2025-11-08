@@ -1,2 +1,2 @@
 # Wipro_Capstone-Project-Bash-Scripting-Suite-for-System-Maintenance-
-A set of Bash scripts automating key system maintenance tasks like backups, updates, and log monitoring to improve efficiency and reduce manual effort.
+This project involved developing a Bash Scripting Suite to automate essential system maintenance tasks. Scripts were created for automated backups, system updates, and log monitoring, then integrated into a single suite with a user-friendly menu. Final testing included adding error handling and logging to ensure reliability and efficiency.
